@@ -19,3 +19,7 @@ Jwt authentication
 Validation
 Api 
 Db connection
+
+
+Screenshots have been attached for the running application
+
